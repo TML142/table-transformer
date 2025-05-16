@@ -1,4 +1,3 @@
-apt: libgl1
 
 albucore==0.0.13
 albumentations==1.4.10
