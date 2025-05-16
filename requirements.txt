@@ -112,4 +112,4 @@ ultralytics==8.0.77
 ultralytics-thop==2.0.14
 ultralyticsplus==0.1.0
 urllib3==2.3.0
-Fix: Downgrade ultralytics for compatibility with ultralyticsplus
+
